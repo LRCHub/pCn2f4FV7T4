@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "また来世",
+  "base_artist": "Dios",
+  "createdAt": "2026-02-17T02:46:02.603664Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "また来世",
+      "artist": "Dios",
+      "has_synced": false,
+      "path": "select/pl_01_また来世_Dios.txt"
+    }
+  ]
+}
